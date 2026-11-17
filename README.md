@@ -524,6 +524,7 @@ https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462409
 * PatchDiff2 - https://github.com/filcab/patchdiff2
 * PE Insider - http://cerbero.io/peinsider/
 * Resource Hacker - http://www.angusj.com/resourcehacker/
+* [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 * DarunGrim - https://github.com/ohjeongwook/DarunGrim
 * Mal Tindex - https://github.com/joxeankoret/maltindex
 * Manalyze - https://github.com/JusticeRage/Manalyze
